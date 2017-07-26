@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7315" started-at="2017-07-24T01:51:53Z" finished-at="2017-07-24T01:52:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7315" started-at="2017-07-24T01:51:53Z" finished-at="2017-07-24T01:52:00Z">
+      <class name="OpenApp">
+        <test-method status="PASS" signature="openBrowser()[pri:1, instance:OpenApp@18be83e4]" name="openBrowser" duration-ms="2779" started-at="2017-07-23T20:51:53Z" finished-at="2017-07-23T20:51:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="m1()[pri:0, instance:OpenApp@18be83e4]" name="m1" is-config="true" duration-ms="0" started-at="2017-07-23T20:51:53Z" finished-at="2017-07-23T20:51:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:OpenApp@18be83e4]" name="m2" is-config="true" duration-ms="0" started-at="2017-07-23T20:51:55Z" finished-at="2017-07-23T20:51:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method status="PASS" signature="m1()[pri:0, instance:OpenApp@18be83e4]" name="m1" is-config="true" duration-ms="0" started-at="2017-07-23T20:51:55Z" finished-at="2017-07-23T20:51:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="OpenFacebook()[pri:2, instance:OpenApp@18be83e4]" name="OpenFacebook" duration-ms="3426" started-at="2017-07-23T20:51:55Z" finished-at="2017-07-23T20:51:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenFacebook -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:OpenApp@18be83e4]" name="m2" is-config="true" duration-ms="0" started-at="2017-07-23T20:51:59Z" finished-at="2017-07-23T20:51:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method status="PASS" signature="Logout()[pri:3, instance:OpenApp@18be83e4]" name="Logout" duration-ms="1041" started-at="2017-07-23T20:51:59Z" finished-at="2017-07-23T20:52:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="m1()[pri:0, instance:OpenApp@18be83e4]" name="m1" is-config="true" duration-ms="0" started-at="2017-07-23T20:51:59Z" finished-at="2017-07-23T20:51:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:OpenApp@18be83e4]" name="m2" is-config="true" duration-ms="6" started-at="2017-07-23T20:52:00Z" finished-at="2017-07-23T20:52:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- OpenApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
